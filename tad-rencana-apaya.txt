@@ -1,0 +1,8 @@
+Rencana??? bingung hehe.. belajar kali yak
+- Python
+- HTML
+- CSS
+- JavaScript
+- Webpack
+- NodeJs
+- RestAPI
