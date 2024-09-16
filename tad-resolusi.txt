@@ -3,3 +3,4 @@ Tad Resolusi
 - Membuat platform untuk pengelolaan web
 - Membuat Merch Shop
 - Kolaborasi dengan lebih banyak expert
+- Membuat web
