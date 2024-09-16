@@ -3,6 +3,8 @@ Rencana??? bingung hehe.. belajar kali yak
 - HTML
 - CSS
 - JavaScript
+  - ES6
+  - Framework Javascript
 - Webpack
 - NodeJs
 - RestAPI
