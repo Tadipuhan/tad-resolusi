@@ -1,5 +1,9 @@
 Rencana??? bingung hehe.. belajar kali yak
 - Python
+  - OOP
+  - Numpy
+  - Matplotlib
+  - Django LTS
 - HTML
 - CSS
   - CSS3
@@ -7,10 +11,13 @@ Rencana??? bingung hehe.. belajar kali yak
 - JavaScript
   - ES6
   - Framework Javascript
-    - Angular
+    - NodeJs
     - React
+    - Vue
 - Webpack
-- NodeJs
 - RestAPI
-- PHP Framework
-  - Laravel
+- PHP
+  - OOP Dasar
+  - Membuat Aplikasi MVC dengan PHP
+  - PHP Framework
+    - Laravel
