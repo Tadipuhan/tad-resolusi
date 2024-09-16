@@ -1,0 +1,3 @@
+Tad Resolusi
+- Konsisten untuk membuat kode
+- Membuat platform untuk pengelolaan web
