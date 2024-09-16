@@ -7,6 +7,10 @@ Rencana??? bingung hehe.. belajar kali yak
 - JavaScript
   - ES6
   - Framework Javascript
+    - Angular
+    - React
 - Webpack
 - NodeJs
 - RestAPI
+- PHP Framework
+  - Laravel
