@@ -2,6 +2,8 @@ Rencana??? bingung hehe.. belajar kali yak
 - Python
 - HTML
 - CSS
+  - CSS3
+  - SCSS
 - JavaScript
   - ES6
   - Framework Javascript
